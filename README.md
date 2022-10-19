@@ -10,7 +10,7 @@
 - Ruby on Rails
 - Git 
 
-- click here to see the [front-end](https://github.com/jheart-vic/hello-react-front-end/pull/1)
+- click here to see the [front-end](https://github.com/jheart-vic/hello-react-front-end/)
 
 ## Getting Started
 
