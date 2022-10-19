@@ -10,6 +10,7 @@
 - Ruby on Rails
 - Git 
 
+- click here to see the [front-end](https://github.com/jheart-vic/hello-react-front-end/)
 
 ## Getting Started
 
@@ -22,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 - Run git clone ` https://github.com/jheart-vic/hello-rails-back-end.git`
 - Run `bundle install`
 - Run `rails new my_new_app --api --database=postgresql`
-
+ - `Note: to view the front end run the app on port: http://localhost:3001/`
 ## Author
 
 👤 **Victor Akabueze**
